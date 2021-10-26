@@ -1,0 +1,13 @@
+{
+  "name": "com.tifish.unitylogcleaner",
+  "version": "1.0.0",
+  "displayName": "Unity Log Cleaner",
+  "description": "Cleanup <Project>/Logs automatically.",
+  "unity": "2018.2",
+  "keywords": [
+    "log",
+    "clean"
+  ],
+  "author": "Winston Feng <tifish@gmail.com>",
+  "license": "MIT"
+}
